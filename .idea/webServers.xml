@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b0dbc22b-8d30-4dc8-a6bb-5dd16176f0b9" name="lkl">
+        <fileTransfer rootFolder="/home/imu_liurui" accessType="SFTP" host="10.3.13.9" port="22" sshConfigId="5a81d4a4-adf4-4584-b0eb-1cc0cb743be8" sshConfig="lkl">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
